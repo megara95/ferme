@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "Le jeu passe en 3D : village, ferme, pêche, combats, tour avec boss et ascenseur, maison, coffres, minimap et sauvegarde. Ta partie 2D n'est pas reprise (nouvelle sauvegarde 3D)."
+  "notes": "Grande carte de 440 m : la maison est loin du village, reliée par des chemins ; mine au nord-est, ponton de pêche sur le grand lac. Sons et ambiances, roches 3D à piocher, nouvelles animations (saut, garde avec bouclier, combats, ferme), armures en cuir pièce par pièce, boss au sol, meilleures performances. Les coffres sont réunis en un seul. Une nouvelle partie est conseillée."
 }
