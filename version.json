@@ -1,1 +1,5 @@
-{"version": "1.5.1", "url": "https://github.com/megara95/ferme/releases/latest", "notes": "Correction de la mise à jour automatique. Télécharge le nouveau Ferme.exe sur GitHub (une seule fois) : ensuite les mises à jour se feront toutes seules."}
+{
+  "version": "1.6.0",
+  "url": "https://github.com/megara95/ferme/releases/latest",
+  "notes": "Le jeu passe en 3D : village, ferme, pêche, combats, tour avec boss et ascenseur, maison, coffres, minimap et sauvegarde. Ta partie 2D n'est pas reprise (nouvelle sauvegarde 3D)."
+}
