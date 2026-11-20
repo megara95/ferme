@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "Jeu à plusieurs (2 à 4 joueurs) : un joueur héberge depuis l'écran titre, les autres le rejoignent par son adresse. La ferme, le coffre de la maison, la mine et la tour sont partagés ; chacun garde son sac et son équipement. Trois classes au choix : guerrier, archer et mage, avec leurs capacités. Touches réglables dans les options. La tour reste la même jusqu'au lundi suivant. Trois cimetières : on s'y réveille après un évanouissement. Tous les joueurs d'une partie doivent avoir cette version."
+  "notes": "Nouvelle barre d'action de 10 cases (touches 1 à 0) : on y place ses sorts et ses graines ou sa nourriture. Grimoire (touche K) pour placer ses sorts sur la barre. Les armes et les outils s'équipent maintenant dans la case Arme de la fiche (touche P) ; la touche Q reprend l'arme ou l'outil d'avant. Le sac de base a 16 places : on peut y ajouter des sacs (4 emplacements en bas à droite), et l'archer a un carquois pour ses flèches. Une ancienne partie est convertie toute seule : ce qui ne tient plus dans le sac va dans le coffre de la maison. L'archer vise avec le clic droit. Interface en marron, objets glissés bien visibles. Tous les joueurs d'une partie doivent avoir cette version."
 }
