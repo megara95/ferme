@@ -1,5 +1,5 @@
 {
-  "version": "1.13.1",
+  "version": "1.14.0",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "Corrections pour ne plus perdre sa partie. Sauvegarder ou quitter dans la mine te replace à la porte de la mine au lieu de te faire réapparaître dans le vide. Fermer la fenêtre du jeu avec la croix enregistre maintenant la partie. Une mise à jour dont le téléchargement est coupé n'abîme plus le jeu. Tous les joueurs d'une partie à plusieurs doivent avoir cette version."
+  "notes": "De la musique selon le lieu (jour, nuit, maison, tour). Nouveau moulin avec ses ailes qui tournent. Clic gauche sur un monstre pour le cibler et l'attaquer automatiquement ; les monstres marchent et courent au bon rythme. La charge du guerrier marche aussi dans la mine. Le maître archer sort de la maison. Arbre de talents refait : icônes, grille, 7 talents par branche. Code de partie facultatif pour jouer à plusieurs. Tous les joueurs d'une partie à plusieurs doivent avoir cette version."
 }
