@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
+  "version": "1.13.1",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "La neige recouvre tout le paysage et le vent forme des congères. Les cultures dépendent de la saison : on ne plante que ce qui pousse en cette saison. Rues pavées, chemins de terre et herbe avec de vraies textures et des transitions douces. Moulin réparé (les pales sont bien fixées), cheveux et entrée de la mine corrigés. Petits animaux qui se promènent : poules, moutons, chèvres, cochons, cerfs et tortues. Un dragon traverse le ciel de temps en temps. Tous les joueurs d'une partie à plusieurs doivent avoir cette version."
+  "notes": "Corrections pour ne plus perdre sa partie. Sauvegarder ou quitter dans la mine te replace à la porte de la mine au lieu de te faire réapparaître dans le vide. Fermer la fenêtre du jeu avec la croix enregistre maintenant la partie. Une mise à jour dont le téléchargement est coupé n'abîme plus le jeu. Tous les joueurs d'une partie à plusieurs doivent avoir cette version."
 }
