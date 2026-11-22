@@ -1,5 +1,5 @@
 {
-  "version": "1.18.0",
+  "version": "1.19.0",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "L'interface est refaite : fenêtres sombres à filets dorés, nouvelles polices, bouton Fermer sur chaque fenêtre, mini-carte avec le nord, heure et météo dans un cadre. Dans Options > Affichage, « Taille de l'interface » permet de la réduire sur un grand écran. Les boutons en bas à gauche ouvrent et referment leur fenêtre. Toutes les icônes des sorts, des talents et des menus sont redessinées. La nuit ne saute plus : le temps continue après minuit, et le lit sert à passer au matin. Quand on s'évanouit, on se relève au cimetière avec la vue qui revient peu à peu. Sauter ne fait plus avancer plus vite dans les montées."
+  "notes": "Les hauts-faits arrivent (touche Y) : 24 défis répartis en 7 catégories (combat, donjon, quêtes, métiers, ferme, exploration, secrets), avec une barre d'avancement. Chaque haut-fait obtenu rapporte des points de talent, une seule fois. Un secret est caché : à toi de le trouver."
 }
