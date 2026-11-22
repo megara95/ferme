@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "De la musique selon le lieu (jour, nuit, maison, tour). Nouveau moulin avec ses ailes qui tournent. Clic gauche sur un monstre pour le cibler et l'attaquer automatiquement ; les monstres marchent et courent au bon rythme. La charge du guerrier marche aussi dans la mine. Le maître archer sort de la maison. Arbre de talents refait : icônes, grille, 7 talents par branche. Code de partie facultatif pour jouer à plusieurs. Tous les joueurs d'une partie à plusieurs doivent avoir cette version."
+  "notes": "La mine est refaite : trois niveaux de galeries en labyrinthe creusées dans la roche, avec rails, wagonnets, torches et décors. Sous le Gardien, un nouveau donjon de cinq niveaux : une clé à trouver pour ouvrir la herse, des piques au sol, une salle au trésor cachée derrière un éboulis, et le Seigneur Squelette tout au fond. Une échelle ramène dehors après l'avoir vaincu. Tous les joueurs d'une partie à plusieurs doivent avoir cette version."
 }
