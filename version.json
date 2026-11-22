@@ -1,5 +1,5 @@
 {
-  "version": "1.16.0",
+  "version": "1.17.0",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "Nouvelle interface : les fenêtres (sac, personnage, coffre, forge) ont un fond sombre et un cadre doré, et on peut les déplacer en cliquant dessus puis en glissant. La fiche du personnage a six nouvelles cases d'équipement (épaules, cape, gants, collier, ceinture, anneau) pour de futurs objets. Les icônes des sorts, des talents et des menus sont refaites en relief, avec des couleurs vives. Les titres des fenêtres prennent moins de place."
+  "notes": "Les métiers arrivent : mineur, forgeron, fermier, pêcheur, cuisinier, herboriste et alchimiste (2 au maximum par joueur). On commence sans métier ni outil : on apprend un métier et on achète son outil chez son maître, dans la rue du village. Sans le métier, l'outil ne sert à rien. Ouvre la fenêtre Métiers avec la touche J : un onglet par métier, avec le niveau, ce qu'on peut faire et les recettes. Pour fabriquer, il faut être près de la forge, du feu de cuisine ou de l'établi d'alchimiste. Les plats donnent un bonus pendant 10 minutes, les potions agissent tout de suite. Le forgeron fabrique les flèches des archers."
 }
