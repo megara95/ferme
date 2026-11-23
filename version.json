@@ -1,5 +1,5 @@
 {
-  "version": "1.19.0",
+  "version": "1.20.0",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "Les hauts-faits arrivent (touche Y) : 24 défis répartis en 7 catégories (combat, donjon, quêtes, métiers, ferme, exploration, secrets), avec une barre d'avancement. Chaque haut-fait obtenu rapporte des points de talent, une seule fois. Un secret est caché : à toi de le trouver."
+  "notes": "Ton équipement a enfin des caractéristiques (force, agilité, intelligence, endurance, armure, parade), visibles à côté du portrait sur la fiche (touche C). Les objets ont une rareté : gris (commun), vert (fabriqué), bleu (donjon), violet (boss de fin de donjon) et orange (secret). Les valeurs varient un peu d'un objet à l'autre. Les monstres, coffres et boss lâchent des pièces d'équipement pour ta classe, et le forgeron fabrique de meilleures pièces en montant de niveau. Un objet orange se cache derrière un haut-fait secret. Un message te donne le score d'équipement conseillé en entrant dans le donjon. Correctif : le clic gauche avec le bâton de mage ne réclame plus le métier de fermier."
 }
