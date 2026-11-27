@@ -1,5 +1,6 @@
 {
-  "version": "1.22.0",
+  "version": "1.23.0",
   "url": "https://github.com/megara95/ferme/releases/latest",
-  "notes": "Nouvelle zone : Les Landes du Levant, à l'est du village. Franchis le col (touche E) avec assez de score d'équipement. Tu y trouves un campement avec des PNJ qui donnent des quêtes à faire une seule fois (or et équipement), un marchand de butin et un marchand d'équipement qui rachète tes pièces selon leur rareté, une forêt profonde et la grotte du Seigneur, un donjon avec un boss et son coffre. Les monstres de la zone sont bien plus forts et lâchent l'équipement de palier 3. Trois nouvelles classes : gardien, prêtre et druide, avec un écran de création de personnage (race et classe). À plusieurs : cadres du groupe, soins et protections sur les alliés, menace des monstres et vraie Provocation. La mine est bien plus dure et sa porte demande un score d'équipement (la moyenne du groupe compte)."
+  "notes": "Mode raid : à l'entrée de la tour ou de la mine, choisis Solo ou Raid. En raid, 3 bots (tank, soigneur, dégâts) t'accompagnent, les monstres ont bien plus de vie et le butin est meilleur. Les étages de la tour sont maintenant faits de salles et de couloirs, avec 1 ou 2 roches à miner. Nouvel hôtel des ventes près du forgeron : vends ton équipement et tes composants, ou achète ce que tes métiers ne te donnent pas (les cours bougent chaque jour). Le menu pause propose « Charger la partie ». À plusieurs, un joueur ne peut plus frapper un monstre trop vite. La mise à jour vérifie maintenant le fichier téléchargé.",
+  "sha256": "0dda2b5da2c404fd125f9b44dba6938a4aed53996e73e93d305253703e792a73"
 }
